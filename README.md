@@ -4,12 +4,16 @@ Este é um projeto de um timer desenvolvido para treinamento de react.
 
 ## Tecnologias Utilizadas
 
-- React
-- TypeScript
-- Styled-components
-- React Router
-- Context API
-- Vite
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
+- **React Router**: Biblioteca para roteamento de páginas em aplicações React.
+- **Vite**: Ferramenta de build rápida e leve para desenvolvimento web moderno.
+- **ESLint**: Ferramenta de linting para identificar e corrigir problemas no código JavaScript/TypeScript.
+- **Prettier**: Ferramenta de formatação de código para manter um estilo consistente.
+- **Jest**: Framework de testes em JavaScript para garantir a qualidade do código.
+- **Testing Library**: Conjunto de utilitários para testar componentes React de forma simples e eficaz.
+- **Styled-Components**: Biblioteca para estilização de componentes utilizando CSS-in-JS.
+- **Context API**: API do React para gerenciamento de estado global.
 
 ## Funcionalidades
 
